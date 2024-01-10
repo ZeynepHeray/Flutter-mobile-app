@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360628935119",
+    "project_id": "flowerapp-6ae0c",
+    "storage_bucket": "flowerapp-6ae0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360628935119:android:1111f61e2c1a1df06c5aba",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_CSO1cT-lk2VTzBlyzqCkh9LkY3n3tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
